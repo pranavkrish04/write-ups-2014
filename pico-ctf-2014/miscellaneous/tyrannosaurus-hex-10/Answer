@@ -1,0 +1,4 @@
+Convert the hex to an int.
+PYTHON CODE:
+i = int("95f48ed9" , 16)
+print i
